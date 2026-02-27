@@ -1,1 +1,10 @@
-
+pandas
+requests
+pytesseract
+Pillow
+PyMuPDF
+python-docx
+bs4
+PyPDF2
+openpyxl
+lxml
